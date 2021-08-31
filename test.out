@@ -1,0 +1,44 @@
+int x;
+int y;
+bool b;
+void v;
+struct S {
+int x;
+bool z;
+}
+void test () {
+
+}
+int test2 (bool l, int k) {
+return 3;
+
+}
+bool testMethod (bool b, int a) {
+int g;
+g = 5;
+g++;
+g--;
+cout << "This is a test";
+cin >> x;
+functionCall(x, y);
+if ((x > 1)) {
+    return true;
+}
+repeat ((x || (!z))) {
+    y = 55;
+}
+return;
+
+}
+void testBig () {
+if ((b == (-1))) {
+    x = ((4 + (3 * 5)) - y);
+    while (c) {
+        y = ((y * 2) + x);
+    }
+}
+else {
+    x = 0;
+}
+
+}
